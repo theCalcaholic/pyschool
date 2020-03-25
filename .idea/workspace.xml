@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c28b6a73-9177-4fb9-b802-2cd67a71af38" name="Default Changelist" comment="" />
+    <list default="true" id="c28b6a73-9177-4fb9-b802-2cd67a71af38" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/certificate_request.cnf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/init.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/jupyter_notebook_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/startup.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pyschool.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pyschool.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/jupyter/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/pyschool_basics-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/jupyter/pyschool_basics.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/jupyter/Untitled.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyschool_basics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/jupyter/.ipynb_checkpoints/pyschool_basics-checkpoint.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YZWvQGPR52OZfvCXHnkYfAnzmR" />
   <component name="ProjectViewState">
@@ -16,6 +33,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Tobias\projects\pyschool" />
+      <recent name="C:\Users\Tobias\projects\pyschool\server" />
+      <recent name="C:\Users\Tobias\projects\pyschool\jupyter" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -31,6 +56,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="567" y="308" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585150600419">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="567" y="308" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1010/1680.0.1680.1010@0.0.1680.1010" timestamp="1585150600419" />
+    <state x="341" y="147" key="SettingsEditor" timestamp="1585148911228">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="341" y="147" key="SettingsEditor/0.0.1680.1010/1680.0.1680.1010@0.0.1680.1010" timestamp="1585148911228" />
     <state x="641" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1585138109418">
       <screen x="51" y="28" width="1869" height="1052" />
     </state>
